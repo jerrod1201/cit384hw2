@@ -1,4 +1,4 @@
-# CIT 384 HW 2
+# cit 384 hw2
 
 ## Live Demo
 
