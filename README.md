@@ -2,6 +2,6 @@
 
 ## Live Demo
 
-You can view the published website here:
+View the published website here:
 
 https://jerrod1201.github.io/cit384hw2/
